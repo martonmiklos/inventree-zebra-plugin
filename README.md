@@ -10,8 +10,6 @@ convert the png data provided by InvenTree to Zebra's bitmap format.
 It can output the print data either to a local printer connected to the computer via USB or to a network printer
 with an IP address. The output can be configured in the InvenTree plugin user interface.  
 
-Error handling is very basic. 
-
 ## Installation
 
 The plugin is on pypi. Install this plugin using pip with the following command:
