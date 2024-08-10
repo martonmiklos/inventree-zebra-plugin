@@ -37,7 +37,7 @@ In case of a local printer set the device here. The plugin actually puts the dat
 device /dev/usb/lp0. No printer spooler is involved so far.
 
 ### Threshold
-The image from pillow comes in greyscale. The plugin converts it ti pure BW because this gives a much
+The image from pillow comes in greyscale. The plugin converts it to pure BW because this gives a much
 better print result. The threshold between black and white can be adjusted here.
 
 ### Darkness
